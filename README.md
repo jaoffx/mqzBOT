@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/marqzxq/mqzBOT.git
-> cd mqzBOT
+> git clone https://github.com/jão/jãoBOT.git
+> cd jãobot
 > bash install.sh
 ```
 
